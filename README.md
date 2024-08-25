@@ -1,16 +1,21 @@
 # SMME Onboarding documentation
 
-![Project Logo](path/to/logo.png)
+
 
 ## Description
 
 A brief description of what this project does and its purpose. Explain the problem it solves or the features it provides.
 
+
+## use cases 
+
+![Project Logo](./docs/onboarding.svg)
 ## Features
 
-- **Feature 1:** Description of the feature.
-- **Feature 2:** Description of the feature.
-- **Feature 3:** Description of the feature.
+- **Manage Orders:** Users will be able to add, remove, and update orders.
+- **Payment Processing:** Users will be able to make payments.
+- **Device Registration:** Users will be able to continue registering devices and add company details.
+
 
 ## Demo
 
